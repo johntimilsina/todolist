@@ -1,5 +1,8 @@
+//main.js is the entry point of the application. 
 import Vue from 'vue'
 import App from './App.vue'
+import './assets/reset.css'
+
 
 Vue.config.productionTip = false
 
